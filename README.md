@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hola, mi nombre es Toño Tejera 🤘
+### Filólogo y Developer en Proceso 📖
 
-<!--
-**emperadev/emperadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![https://github.com/emperadev](https://github.com/emperadev/emperadev/blob/main/Emperadev_banner.png?raw=true)
 
-Here are some ideas to get you started:
+Soy filólogo inglés desde hace un tiempo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Al final de mi paso por la universidad empecé a sentir la llamada para aprender programación. Actualmente imparto clases de inglés online y lo compagino con mi aprendizaje autodidacta del mundo de la programación.
+
+# Mis Proyectos
+
+## Learn English - Curso de Inglés desde Cero y Gratis: 
+![https://github.com/emperadev](https://github.com/emperadev/emperadev/blob/main/Learn_English.png?raw=true)
+[![Curso Learn English](https://img.shields.io/github/stars/emperadev/learn-english?label=Curso%20Learn%20English&style=social)](https://github.com/emperadev/learn-english)
