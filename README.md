@@ -1,8 +1,6 @@
 # Hola, mi nombre es Toño Tejera 🤘
 ### Filólogo y Developer en Proceso 📖
 
-![https://github.com/emperadev](https://github.com/emperadev/emperadev/blob/main/Emperadev_banner.png?raw=true)
-
 Soy filólogo inglés desde hace un tiempo.
 
 Al final de mi paso por la universidad empecé a sentir la llamada para aprender programación. Actualmente imparto clases de inglés online y lo compagino con mi aprendizaje autodidacta del mundo de la programación.
